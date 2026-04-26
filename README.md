@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ln4sfovn4k45va3kowbjaihhlq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
+ <img width="328px" height="92px" src="https://file.garden/aTN1R0deYkPxCX0D/msgsfromtheeestars.png">
 </p>
 </p>
 <p align="center">
